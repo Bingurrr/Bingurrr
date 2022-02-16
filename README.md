@@ -1,6 +1,6 @@
 
 <p align="center" align="right">
-   Currently studying from Kookmin Uni
+   Currently studying from Kookmin Univ
 <p/>
 <p align="center" align="right">
   <a href="https://github.com/anuraghazra/github-readme-stats">
