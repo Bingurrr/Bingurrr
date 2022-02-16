@@ -1,16 +1,36 @@
-### Hi there 👋
 
-<!--
-**Bingurrr/Bingurrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center" align="right">
+   Currently studying from Kookmin Uni
+<p/>
+<p align="center" align="right">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Bingurrr&show_icons=true&theme=cobalt" />
+  </a>
+<p/>
+<p align="center" align="right">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bingurrr&langs_count=10&layout=compact&theme=cobalt" />
+  </a>
+<p/>
+<!--[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=enginekevin)](https://solved.ac/enginekevin)-->
 
-Here are some ideas to get you started:
+<p align="center" align="right">
+  Stacks That used at least once
+<p/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center" align="right">
+  <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
+  <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+</p>
+  	
+
+  
+<!--<p align="center" align="right">
+  Other Tools
+</p>
+
+<p align="center" align="right">
+
+</p>-->
