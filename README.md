@@ -35,8 +35,9 @@
    Activity
 <p/>
 <p align="center">
+2021 삼성SDS 스마트해커톤(2021.4 ~ 2021.6) 대학생멘토 <br/>
 2021 UROP : 자율주행 차량 영상 인식 및 적대적 예제에 관한 연구<br/>
-2021 UCI GREAT Program : Study on Platoon of Autonomous Vehicles
+2021 UCI GREAT Program(2022.1.3~2022.2.25) : Study on Platoon of Autonomous Vehicles
 </p>
   	
 
