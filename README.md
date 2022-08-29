@@ -1,5 +1,9 @@
-### 소고기가 먹고 싶습니다. 
 
+## Hi!
+
+![박병규's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bingurrr&show_icons=true&theme=radical)
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pbk5485)](https://solved.ac/pbk5485/)
 
 <!--<p align="center" align="right">
    Currently studying from Kookmin University
@@ -8,14 +12,13 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Bingurrr&show_icons=true&theme=cobalt" />
   </a>
-<p/>
-<p align="center" align="right">
+<p/>-->
+<!--<p align="center" align="right">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bingurrr&langs_count=10&layout=compact&theme=cobalt" />
   </a>
-<p/>
-<!--[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=enginekevin)](https://solved.ac/enginekevin)-->
+<p/>-->
+
 
 <!--<p align="center" align="right">
   Stacks That used at least once
@@ -50,4 +53,4 @@
 
 <p align="center" align="right">
 
-</p>-->
+</p>
