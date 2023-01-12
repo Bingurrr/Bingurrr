@@ -2,7 +2,7 @@
 ## Hi!
 
 <!-- ![박병규's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bingurrr&show_icons=true&theme=radical) -->
-![Bingurrr's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bingurrr&show_icons=true&theme=aura_dark)
+<!-- ![Bingurrr's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bingurrr&show_icons=true&theme=aura_dark) -->
 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pbk5485)](https://solved.ac/pbk5485/)
