@@ -1,5 +1,5 @@
 
-## Hi!
+## Hi, there!
 
 <!-- ![박병규's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bingurrr&show_icons=true&theme=radical) -->
 <!-- ![Bingurrr's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bingurrr&show_icons=true&theme=aura_dark) -->
