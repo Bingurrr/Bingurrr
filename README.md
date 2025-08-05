@@ -40,12 +40,27 @@
 ---
 
 ## 🏆 Awards
-- 🥇 대상 — 스케일카 기반 자율주행 경진대회  
-- 🥉 장려상 — 국제자동차창작대회 자율주행부문  
-- 🌟 혁신상 — Future Mobility Urban Challenge (서울대 주관)  
-- 🥇 최우수상 — 혁신공유대학 가상환경기반 자율주행 경진대회  
-- 🥈 우수상 — 국제대학생 EV 자율주행경진대회  
-- 🥈 로봇산업진흥원장상 (2등) — 2023 배달의 민족 자율주행 경진대회
+
+- 🥇 **Grand Prize** — Scale-Car-Based Autonomous Driving Competition  
+  *(스케일카 기반 자율주행 경진대회)*
+
+- 🥉 **Third Place** — International Automotive Creative Competition (Autonomous Driving Division)  
+  *(국제자동차창작대회 자율주행부문)*
+
+- 🌟 **Innovation Award** — Future Mobility Urban Challenge (Hosted by Seoul National University)  
+  *(Future Mobility Urban Challenge – 서울대학교 주관)*
+
+- 🥇 **Best Award** — XR-Based Autonomous Driving Competition by the University Innovation Program  
+  *(혁신공유대학 가상환경기반 자율주행 경진대회)*
+
+- 🥈 **Excellence Award** — International University EV Autonomous Driving Competition  
+  *(국제대학생 EV 자율주행경진대회)*
+
+- 🥈 **2nd Place (President’s Award)** — 2023 Baemin Autonomous Driving Challenge  
+  *(2023 배달의민족 자율주행 경진대회 – 로봇산업진흥원장상)*
+
+- 🥇 **Grand Prize** & 🌟 **Special Award** — 2023 HL Mando & HL Klemove Autonomous Mobility Challenge  
+  *(2023 HL 만도 & HL 클레무브 자율주행 모빌리티 경진대회 – 대상 및 특별상)*
 
 ---
 
