@@ -23,7 +23,7 @@
 ## 📝 Publications
 - **Byeonggyu Park**, Hee-Yeun Kim, Byonghyok Choi, Hansang Cho, Byungkwan Kim, Soomok Lee, Mingu Jeon, and Seong-Woo Kim,  
   **"mmWave Radar-Based Non-Line-of-Sight Pedestrian Localization at T-Junctions Utilizing Road Layout Extraction via Camera,"**  
-  _Accepted to IEEE/RSJ IROS 2025_ [[arXiv](https://arxiv.org/abs/2508.02348)]
+  _Accepted to IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)_, 2025 [[arXiv](https://arxiv.org/abs/2508.02348)]
   
 - Hee-Yeun Kim, **Byeonggyu Park**, Byonghyok Choi, Hansang Cho, Byungkwan Kim, Soomok Lee, Mingu Jeon, Seung-Woo Seo, and Seong-Woo Kim,  
   "Radar-Based NLoS Pedestrian Localization for Darting-Out Scenarios Near Parked Vehicles with Camera-Assisted Point Cloud Interpretation,"  
