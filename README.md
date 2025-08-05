@@ -72,6 +72,6 @@
 ## 📫 Contact
 - 📧 Email: [bg.park@snu.ac.kr](mailto:bg.park@snu.ac.kr)  
 - 💻 GitHub: [github.com/bingurrr](https://github.com/Bingurrr)  
-
+- 📚 Google Scholar: [Scholar](https://scholar.google.com/citations?user=3PMUIP8AAAAJ&hl=ko)
 ---
 
