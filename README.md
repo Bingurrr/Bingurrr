@@ -65,7 +65,10 @@
 ---
 
 ## 🚀 Activities
-
+- **World Solar Challenge 2025 – SNU Solo Team**  
+  Strategy Team Member  
+  Participating in the global solar car race representing Seoul National University. In charge of real-time telemetry, route optimization, and energy management strategies for a solar-powered vehicle.
+  
 - **UCI Internship – Platoon of Autonomous Vehicles**  
   University of California, Irvine (2022.01.03 ~ 2022.02.25)  
   Participated in a research internship focused on multi-vehicle platooning and autonomous vehicle control strategies using simulation environments and sensor data fusion.
@@ -77,10 +80,6 @@
 - **FOSCAR – Autonomous Driving Club**  
   (2022.09 ~ 2024.02)  
   Active member of FOSCAR, a university autonomous driving club. Contributed to the development of perception, path planning, and control systems for a 1/10-scale autonomous vehicle platform.
-
-- **World Solar Challenge 2025 – SNU Solo Team**  
-  Strategy Team Member  
-  Participating in the global solar car race representing Seoul National University. In charge of real-time telemetry, route optimization, and energy management strategies for a solar-powered vehicle.
 
 ---
 
