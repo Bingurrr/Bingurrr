@@ -41,7 +41,7 @@
 
 ## 🏆 Awards
 
-- 🥇 **Grand Prize** — Scale-Car-Based Autonomous Driving Competition  
+- 🥇 **Grand prize (1st place)** — Scale-Car-Based Autonomous Driving Competition  
   *(스케일카 기반 자율주행 경진대회)*
 
 - 🥉 **Third Place** — International Automotive Creative Competition (Autonomous Driving Division)  
@@ -53,13 +53,13 @@
 - 🥇 **Best Award** — XR-Based Autonomous Driving Competition by the University Innovation Program  
   *(혁신공유대학 가상환경기반 자율주행 경진대회)*
 
-- 🥈 **Excellence Award** — International University EV Autonomous Driving Competition  
+- 🥇 **1st Place** — International University EV Autonomous Driving Competition  
   *(국제대학생 EV 자율주행경진대회)*
 
 - 🥈 **2nd Place (President’s Award)** — 2023 Baemin Autonomous Driving Challenge  
   *(2023 배달의민족 자율주행 경진대회 – 로봇산업진흥원장상)*
 
-- 🥇 **Grand Prize** & 🌟 **Special Award** — 2023 HL Mando & HL Klemove Autonomous Mobility Challenge  
+- 🥇 **Grand prize (1st place)** & 🌟 **Special Award** — 2023 HL Mando & HL Klemove Autonomous Mobility Challenge  
   *(2023 HL 만도 & HL 클레무브 자율주행 모빌리티 경진대회 – 대상 및 특별상)*
 
 ---
