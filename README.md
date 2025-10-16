@@ -79,7 +79,7 @@
 
 - **FOSCAR – Autonomous Driving Club**  
   (2022.09 ~ 2024.02)  
-  Active member of FOSCAR, a university autonomous driving club. Contributed to the development of perception, path planning, and control systems for a 1/10-scale autonomous vehicle platform.
+  Active member of FOSCAR, a university autonomous driving club. Contributed to the development of perception, path planning, and control systems for a 1/4-scale autonomous vehicle platform.
 
 ---
 
