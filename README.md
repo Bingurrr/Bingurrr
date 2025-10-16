@@ -53,7 +53,7 @@
 - 🥇 **Best Award** — XR-Based Autonomous Driving Competition by the University Innovation Program  
   *(혁신공유대학 가상환경기반 자율주행 경진대회)*
 
-- 🥇 **1st Place** — International University EV Autonomous Driving Competition  
+- 🥇 **Grand prize (1st place)** — International University EV Autonomous Driving Competition  
   *(국제대학생 EV 자율주행경진대회)*
 
 - 🥈 **2nd Place (President’s Award)** — 2023 Baemin Autonomous Driving Challenge  
