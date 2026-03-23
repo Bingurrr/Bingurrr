@@ -14,6 +14,7 @@
 
 ## 🔬 Research Interests
 - Non-Line-of-Sight (NLoS) Object Detection
+- Physics-aware learning
 - Sensor Fusion (Radar, Camera, LiDAR, Sound, etc.)
 - AI Perception & Acoustic Ray Tracing & Signal Processing 
 - Real-time Embedded Systems & Robotics
