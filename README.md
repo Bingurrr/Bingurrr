@@ -23,7 +23,7 @@
 ## 📝 Publications
 - **Byeonggyu Park**, Mingu Jeon, and Seong-Woo Kim,  
   **"Reflection-Aware Reasoning for Non-Line-of-Sight Pedestrian Localization"**  
-  _The 19th European Conference on Computer Vision (ECCV), Sep. 2026 [[arXiv]([https://arxiv.org/abs/2508.02348](https://arxiv.org/abs/2609.27346))]
+  _The 19th European Conference on Computer Vision (ECCV), Sep. 2026 [[arXiv](https://arxiv.org/abs/2609.27346)]
 
 - **Byeonggyu Park**, Hee-Yeun Kim, Byonghyok Choi, Hansang Cho, Byungkwan Kim, Soomok Lee, Mingu Jeon, and Seong-Woo Kim,  
   **"mmWave Radar-Based Non-Line-of-Sight Pedestrian Localization at T-Junctions Utilizing Road Layout Extraction via Camera,"**  
