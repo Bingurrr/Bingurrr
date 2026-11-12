@@ -20,19 +20,22 @@
 - Real-time Embedded Systems & Robotics
 
 ---
-
 ## 📝 Publications
+- **Byeonggyu Park**, Mingu Jeon, and Seong-Woo Kim,  
+  **"Reflection-Aware Reasoning for Non-Line-of-Sight Pedestrian Localization"**  
+  _The 19th European Conference on Computer Vision (ECCV), Sep. 2026 [[arXiv]([https://arxiv.org/abs/2508.02348](https://arxiv.org/abs/2609.27346))]
+
 - **Byeonggyu Park**, Hee-Yeun Kim, Byonghyok Choi, Hansang Cho, Byungkwan Kim, Soomok Lee, Mingu Jeon, and Seong-Woo Kim,  
   **"mmWave Radar-Based Non-Line-of-Sight Pedestrian Localization at T-Junctions Utilizing Road Layout Extraction via Camera,"**  
-  _Accepted to IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)_, 2025 [[arXiv](https://arxiv.org/abs/2508.02348)]
+  _IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)_, 2025 [[arXiv](https://arxiv.org/abs/2508.02348)]
   
 - Hee-Yeun Kim, **Byeonggyu Park**, Byonghyok Choi, Hansang Cho, Byungkwan Kim, Soomok Lee, Mingu Jeon, Seung-Woo Seo, and Seong-Woo Kim,  
   "Radar-Based NLoS Pedestrian Localization for Darting-Out Scenarios Near Parked Vehicles with Camera-Assisted Point Cloud Interpretation,"  
-  _Accepted to IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)_, 2025 [[arXiv](https://arxiv.org/html/2508.04033v1)]
+  _IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)_, 2025 [[arXiv](https://arxiv.org/html/2508.04033v1)]
 
 - Mingu Jeon, **Byeonggyu Park**, Hee-Yeun Kim, Yujeong Kang, Byonghyok Choi, Hansang Cho, Byungkwan Kim, Soomok Lee, Seung-Woo Seo, and Seong-Woo Kim,  
   "Non-Line-of-Sight Multi-Target Localization in T-Junctions Using Ray Tracing of mmWave Radar,"  
-  _To appear in IEEE Intelligent Vehicle Symposium (IV)_, June 2025 [[IEEE](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11097630&tag=1)]
+  _ IEEE Intelligent Vehicle Symposium (IV)_, June 2025 [[IEEE](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11097630&tag=1)]
   
 - Mingu Jeon, Jae-Kyung Cho, Hee-Yeun Kim, **Byeonggyu Park**, Seung-Woo Seo, and Seong-Woo Kim,  
   "Non-Line-of-Sight Vehicle Localization based on Sound,"  
